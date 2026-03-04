@@ -98,6 +98,3 @@ Z-score analysis helped determine how far transaction amounts deviate from the a
 Probability Density Function and Cumulative Distribution Function were analyzed to understand the probability behavior of transaction amounts.
 
 ---
-
-# Conclusion
-Transaction success follows Bernoulli and Binomial distributions, while transaction counts are well modeled by a Poisson distribution. The transaction amount data is right-skewed and best fits a log-normal distribution. These insights help understand transaction patterns and support better decision-making by identifying normal and unusual transaction behaviors.
